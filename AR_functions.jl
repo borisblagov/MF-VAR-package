@@ -590,5 +590,4 @@ function mf_var(YDATA,nm,nq,nex,p,hyp,nsim,nburn)
 end  # end of function mf_var()
 
 
-
 end # end of file
